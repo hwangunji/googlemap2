@@ -1,2 +1,2 @@
 # googlemap2
-구글맵 실습
+google map api <->firebase 실습
